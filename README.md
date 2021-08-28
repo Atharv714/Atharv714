@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atharv714
 - 👀 I’m interested in HTML
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.... Email me on atharvrastogi11235@gmail.com
 
