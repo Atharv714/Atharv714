@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atharv714
-- 👀 I’m interested in HTML
+- 👀 I’m interested in HTML, css, js, python
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.... Email me on atharvrastogi11235@gmail.com
