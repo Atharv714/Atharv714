@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mydsa<br>👯 I’m looking to collaborate on Websites<br>🤝 I’m looking for help with Django<br>🌱 I’m currently learning Flutter<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on mydsa<br>👯 I’m looking to collaborate on Websites<br>🤝 I’m looking for help with Django<br>🌱 I’m currently learning Flutter<br>
 
 
 # 💻 Tech Stack:
